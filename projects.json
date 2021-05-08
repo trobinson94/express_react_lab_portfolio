@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Books R Us",
+      "live": "https://ga-unit-1-project.vercel.app/",
+      "git": "https://github.com/trobinson94/GA_Unit_1_Project",
+      "image": "https://imgur.com/a/Y4F2PMA"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "BlogSpec",
+      "live": "https://blogspec.herokuapp.com/",
+      "git": "https://github.com/trobinson94/GA_Unit_2_Project",
+      "image": "https://imgur.com/a/86JTqH3"
     }
   ]

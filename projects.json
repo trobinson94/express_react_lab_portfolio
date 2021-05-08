@@ -10,5 +10,11 @@
       "live": "https://blogspec.herokuapp.com/",
       "git": "https://github.com/trobinson94/GA_Unit_2_Project",
       "image": "https://i.imgur.com/P4JhBKa.png"
+    },
+    {
+        "name": "Code Louisville Final",
+        "live": "https://trobinson94.github.io/CodeLouisville/",
+        "git": "https://github.com/trobinson94/CodeLouisville",
+        "image": "https://i.imgur.com/j18AEpC.png"
     }
   ]
